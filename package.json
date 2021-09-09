@@ -1,13 +1,25 @@
 {
-  "name": "desafio_bluemoney",
+  "name": "blue-money",
   "version": "1.0.0",
-  "description": "desafio",
-  "main": "index.js",
+  "description": "conversor de divisas",
+  "main": "divisa.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "pedro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-donoso/blue-money.git"
+  },
+  "keywords": [
+    "divisas",
+    "coversor"
+  ],
+  "author": "Pedro Donoso",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro-donoso/blue-money/issues"
+  },
+  "homepage": "https://github.com/pedro-donoso/blue-money#readme",
   "dependencies": {
     "axios": "^0.21.4",
     "express": "^4.17.1"
