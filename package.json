@@ -22,6 +22,6 @@
   "homepage": "https://github.com/pedro-donoso/blue-money#readme",
   "dependencies": {
     "axios": "^0.21.4",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
